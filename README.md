@@ -1,7 +1,9 @@
 # Virtual_Drum_Set
 
+![image](https://user-images.githubusercontent.com/40472408/74690810-778b5200-51ae-11ea-9201-d16ac2ca417a.png)
 
-## :computer: Developers
+
+## :computer: Developer
 
 
 *  :man_teacher:Kyle Daniels
