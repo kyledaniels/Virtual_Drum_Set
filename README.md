@@ -1,6 +1,6 @@
 # Virtual_Drum_Set
 
-![image](https://user-images.githubusercontent.com/40472408/74692550-aeb13180-51b5-11ea-949a-905b5c74d6e9.png)
+![image](https://user-images.githubusercontent.com/40472408/74693358-8aefea80-51b9-11ea-89d1-715b18303ef6.png)
 
 
 ## :computer: Developer
